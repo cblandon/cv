@@ -1,0 +1,131 @@
+/* This would be the   */
+
+/*
+font-family: 'IM Fell DW Pica SC', serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Montserrat', sans-serif;
+
+gamerdude
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixelmeetup" title="Pixelmeetup">Pixelmeetup</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixelmeetup" title="Pixelmeetup">Pixelmeetup</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+*/
+h5{
+  line-height: 2.0;
+  
+
+
+}
+p{
+  line-height: 1.5;
+  font-size: 1.25rem;
+
+
+}
+#title-section{
+  background-color: #ffd5ab;
+  padding-top: 7%
+}
+
+#landing-images{
+  height : 25%;
+  display: inline-block;
+  margin: 0,0,0,0;
+
+
+}
+#bio-school{
+  background-color: #c36a2d;
+  color: #ffff;
+  text-align: left;
+  line-height: 2.0;
+}
+#sub-section{
+  font-family: 'Permanent Marker', cursive;
+}
+#projects{
+  background-color: #ffd5ab;
+
+
+}
+#programming-segment{
+  background-color: #c36a2d;
+  color: #ffff;
+}
+#work-segment{
+  background-color: #ffd5ab;
+
+}
+#contact-segment{
+  background-color: #c36a2d;
+  color: #ffff;
+}
+#fire-ex{
+  margin-left: 25%;
+  margin-top: 7%;
+}
+#robot{
+  margin-left: 25%;
+  margin-top: 7%;
+}
+#lifeguard{
+  margin-left: 25%;
+  margin-top: 7%;
+}
+#rover-info{
+
+  margin-top: 5%;
+  text-align: left;
+}
+.features{
+  text-align: center;
+}
+.icon{
+
+  margin-bottom: 1rem;
+
+}
+.icon:hover{
+  color: #292b2c;
+}
+.vc-logo{
+  height: auto;
+  width: 50%;
+  margin-left: 20%;
+  margin-bottom: 3%;
+
+}
+.c-logo{
+  display: inline-block;
+
+
+}
+.css-logo{
+  display: inline-block;
+  margin: 0,0,0,0;
+
+}
+.container-fluid{
+  margin: auto;
+}
+.main-title{
+  font-family: 'Montserrat-Black', sans-serif;
+  text-align: center;
+  font-size: 3.125rem;
+  line-height: 1.5;
+}
+
+.sub-title{
+  color: #c36a2d;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  font-size: 2.5rem;
+  padding-bottom: 5%;
+}
+.gamer-logo{
+  text-align: center;
+}
